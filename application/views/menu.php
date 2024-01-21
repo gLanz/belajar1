@@ -2,4 +2,5 @@
     <a href="./Profil">Profil</a> |
     <a href="./Contact">Kontak</a> |
     <a href="./Hubungi">Hubungi Kami</a> |
-    <a href="./Berita">Berita</a>
+    <a href="./Berita">Berita</a> |
+    <a href="./Fasilitas">Fasilitas</a>
